@@ -1,0 +1,1 @@
+module.exports = { content: ['./src/**/*.{js,jsx,ts,tsx}'], theme: { extend: { colors: { primary: '#1f41bb', secondary: '#0db60d' } } }, plugins: [] }\n
